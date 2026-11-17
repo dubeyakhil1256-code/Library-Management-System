@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Akhil",
+            "age": 18,
+            "email": "dubeyakhil@gmail.com",
+            "roll_no": "26bai007",
+            "Books": []
+        },
+        {
+            "name": "Akhil",
+            "age": 18,
+            "email": "dubeyakhil1256@gmail.com",
+            "roll_no": "26bai006",
+            "Books": []
+        }
+    ],
+    "books": []
+}
